@@ -5,7 +5,7 @@
    
    ![image](https://github.com/Ezgii/GPU/assets/4748948/e9f7d2df-a7d2-4352-b93a-929116a426c6)
 
-4. Create an environment:
+4. Create an environment and install the dependencies:
    
    `conda create -n <env_name>`
    
