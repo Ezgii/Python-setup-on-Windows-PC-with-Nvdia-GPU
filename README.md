@@ -19,4 +19,12 @@
    
    `conda activate thesis`
    
-   `conda install ipykernel`
+   `conda install -c anaconda ipykernel`
+
+   `python -m ipykernel install --user --name=thesis`
+
+   `conda install numpy`
+
+   `conda install matplotlib`
+
+   
