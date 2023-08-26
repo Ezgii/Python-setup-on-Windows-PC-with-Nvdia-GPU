@@ -7,13 +7,13 @@
 
 4. Create an environment:
    
-   `conda create -n thesis`
+   `conda create -n <env_name>`
    
-   `conda activate thesis`
+   `conda activate <env_name>`
    
    `conda install -c anaconda ipykernel`
 
-   `python -m ipykernel install --user --name=thesis`
+   `python -m ipykernel install --user --name=<env_name>`
 
    `conda install numpy`
 
