@@ -1,4 +1,3 @@
-# GPU
 
 1. Install Anaconda for Windows from [this link](https://www.anaconda.com/).
    
