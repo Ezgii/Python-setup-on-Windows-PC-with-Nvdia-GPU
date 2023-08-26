@@ -12,3 +12,11 @@
       Copy the command and run it on the command prompt.
      (I run `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia` because my CUDA version was 11.6.)
      ![image](https://github.com/Ezgii/GPU/assets/4748948/54fafee5-7f3f-4bc8-bd01-babd070ceed0)
+
+3. Create an environment:
+   
+   `conda create -n thesis`
+   
+   `conda activate thesis`
+   
+   `conda install ipykernel`
