@@ -1,5 +1,5 @@
 
-1. Install Anaconda for Windows from [this link](https://www.anaconda.com/).
+1. [Download](https://www.anaconda.com/) and install Anaconda for Windows.
    
    Verify that conda is installed:
    
