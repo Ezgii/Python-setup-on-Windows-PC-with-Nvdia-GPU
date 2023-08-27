@@ -18,8 +18,14 @@
    `conda install numpy`
 
    `conda install matplotlib`
+
+   To install Pytorch using conda:
    
    `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia`
+
+   To install Pytorch using pip:
+
+   `C:\Users\Ezgi>pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`
 
       - Note: To determine which Pytorch version to install, go to https://pytorch.org/ and select the appropriate configuration, as shown below.
   
