@@ -3,7 +3,7 @@
    
    Verify that conda is installed:
    
-   ![image](https://github.com/Ezgii/GPU/assets/4748948/e9f7d2df-a7d2-4352-b93a-929116a426c6)
+   ![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/a1fa5fc1-b84a-466b-b7d4-a433055fdd6d)
 
 2. Create an environment and install the dependencies:
    
@@ -29,12 +29,12 @@
 
       - Note: To determine which Pytorch version to install, go to https://pytorch.org/ and select the appropriate configuration, as shown below.
   
-        ![image](https://github.com/Ezgii/GPU/assets/4748948/54fafee5-7f3f-4bc8-bd01-babd070ceed0)
-      
+        ![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/70559d1d-b0e6-4203-9340-7e6b6d72922e)
+
         To learn which CUDA version you have, run `nvcc --version` command. The `nvdia-smi` command shows the highest CUDA version the installed driver supports on the top right corner of the command's output. Note that this does not mean that CUDA version is installed. It may or may not be. You can check via `nvcc --version` command if CUDA is really installed. My CUDA version is 11.6.
    
         
-        ![image](https://github.com/Ezgii/GPU/assets/4748948/eb92cec3-9ae4-4b75-bf78-4affacfeba3c)
+        ![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/5ac5610c-62a5-46ce-9e5b-7eb6b88cb697)
 
 
 3. Open Jupyter notebook. Select <my_env> as the kernel. Verify that torch is installed with CUDA support, as below:
