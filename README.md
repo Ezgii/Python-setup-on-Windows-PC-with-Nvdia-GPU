@@ -5,7 +5,7 @@
    
    ![image](https://github.com/Ezgii/GPU/assets/4748948/e9f7d2df-a7d2-4352-b93a-929116a426c6)
 
-4. Create an environment and install the dependencies:
+2. Create an environment and install the dependencies:
    
    `conda create -n <env_name>`
    
@@ -21,7 +21,7 @@
 
    To install Pytorch using conda:
    
-   `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia`
+   `conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia`
 
    To install Pytorch using pip:
 
@@ -35,6 +35,12 @@
    
         
         ![image](https://github.com/Ezgii/GPU/assets/4748948/eb92cec3-9ae4-4b75-bf78-4affacfeba3c)
+
+
+3. Open Jupyter notebook. Select <my_env> as the kernel. Verify that torch is installed with CUDA support, as below:
+
+![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/bf5930ad-ca48-4972-9c25-17c78c90642b)
+
 
      
 
