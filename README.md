@@ -39,7 +39,8 @@
 
 3. Open Jupyter notebook. Select <my_env> as the kernel. Verify that torch is installed with CUDA support, as below:
 
-![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/bf5930ad-ca48-4972-9c25-17c78c90642b)
+![image](https://github.com/Ezgii/Python-setup-on-Windows-PC-with-Nvdia-GPU/assets/4748948/f18e3c3f-5016-4fd4-a45f-8de9378a3a20)
+
 
 
      
